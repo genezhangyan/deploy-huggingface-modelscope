@@ -6,7 +6,7 @@
 
 ## 这是什么？
 
-如果你做过 AI 应用，大概率同时维护着两个平台的部署：
+vibe codding一个小web app，免费公网跑的话，hugging face和国内的魔塔是两个不错的选择
 
 - **HuggingFace Spaces** — 国际主流，国内访问慢但圈子大
 - **魔搭 ModelScope Studios** — 国内主流，速度快、用户多
