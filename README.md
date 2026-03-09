@@ -1,5 +1,7 @@
 # deploy-huggingface-modelscope
 
+[中文说明](./README.zh.md)
+
 A Claude Code skill for deploying AI projects to both **HuggingFace Spaces** and **ModelScope Studios** in one command — no more repeating the same steps or hitting the same pitfalls.
 
 ## What it does
